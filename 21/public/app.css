@@ -1,0 +1,19 @@
+body{
+    border: 10px solid red;
+    padding: 10px;
+    border: 15px;
+    text-decoration-color: green;
+    background-color: bisque;+
+    text-align: 
+
+}
+p {
+    color: red;
+}
+.outer-element {
+    font-size: 50px;
+}
+
+.inner-element {
+    text-underline-position: below;
+}
